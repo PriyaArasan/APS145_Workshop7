@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-06T05:18:12.424Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="agDrgmciG4Hu0yPyaG9c" version="12.8.1" type="github">
+<mxfile host="www.draw.io" modified="2020-03-06T05:25:47.933Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="-ep-su8JjOcXi6l6mJJC" version="12.8.1" type="github">
   <diagram id="qDoVXirh6mWsyjujtK-E" name="Page-1">
     <mxGraphModel dx="723" dy="375" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="WAkQHWm9UDTdCvNa_TQH-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WAkQHWm9UDTdCvNa_TQH-6" target="WAkQHWm9UDTdCvNa_TQH-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WAkQHWm9UDTdCvNa_TQH-6" value="Output (base_prior_d - price_off) and go to main process" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WAkQHWm9UDTdCvNa_TQH-6" value="Output (base_prior_d - price_off) as base_price and go to main process" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="525" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WAkQHWm9UDTdCvNa_TQH-7" value="DISCOUNT PROCESS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
