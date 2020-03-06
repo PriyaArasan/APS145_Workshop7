@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-03-06T05:22:08.604Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="diLJZpVHb4nT037kvGvu" version="12.8.1" type="github">
+<mxfile host="www.draw.io" modified="2020-03-06T05:26:00.752Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="GwJ56wVpNnN7AjarsX-v" version="12.8.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1447" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="599" dy="310" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -117,8 +117,14 @@
         <mxCell id="xWlfnGzNrt-8DEseAGjF-29" value="total_ppl not equal to 0??" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="78.37" y="670" width="167.75" height="95" as="geometry" />
         </mxCell>
+        <mxCell id="xWlfnGzNrt-8DEseAGjF-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xWlfnGzNrt-8DEseAGjF-35" target="xWlfnGzNrt-8DEseAGjF-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xWlfnGzNrt-8DEseAGjF-35" value="Go to discount process" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xWlfnGzNrt-8DEseAGjF-37" value="Get base_price from discount process" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="660" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
