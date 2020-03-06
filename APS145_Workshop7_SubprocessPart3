@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-03-06T06:02:50.955Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="zni-n4IYpgbOFXUGMlmq" version="12.8.1" type="github">
+<mxfile host="www.draw.io" modified="2020-03-06T06:40:40.494Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="BT4ay5p5MYsNcOanvmi0" version="12.8.1" type="github">
   <diagram id="vUwDVy_qjzRUmE-b8yFe" name="Page-1">
-    <mxGraphModel dx="2190" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2190" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -74,7 +74,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dGLYdohiHQzml-mkBy7_-46" value="STANDARD" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dGLYdohiHQzml-mkBy7_-18" target="dGLYdohiHQzml-mkBy7_-24">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="0.6364" y="40" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="dGLYdohiHQzml-mkBy7_-18" value="Ask user to request valet service as" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-860" y="115" width="120" height="90" as="geometry" />
@@ -132,6 +134,9 @@
         </mxCell>
         <mxCell id="dGLYdohiHQzml-mkBy7_-33" value="Store v_price as 25" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-605" y="230" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dGLYdohiHQzml-mkBy7_-50" value="Store tip as 0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-980" y="310" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
